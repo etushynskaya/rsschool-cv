@@ -58,4 +58,8 @@ function solution(str){
 
 * 09/2016 - 08/2017 BSUIR 
 
-
+## Languages
+* English - Upper Intermediate
+* German - Advanced 
+* Russian - Native
+* Belarusian - Native
