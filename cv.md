@@ -38,23 +38,22 @@ function solution(str){
 -------------
 ## Education
 * since 2017 RWTH Aachen University Computer Science Bachelor
- ..*⋅ Designing Ineractive Systems
- ⋅⋅* Logical Programming
- ⋅⋅* Software Architectures
-⋅⋅* Programming Concepts
-⋅⋅* Data Structures and Algorithms
-⋅⋅* Databases and Information Systems
-⋅⋅* Softwware Engineering
-⋅⋅* Introduction to Computer Engineering
-⋅⋅* System programming
-⋅⋅* Operating Systems and System Software
-⋅⋅* Data Communacation and Security
-⋅⋅* Formal Systems, Automata, Processes
-⋅⋅* Computability and Complexity
-⋅⋅* Discrete Structures 
-⋅⋅* Calculus for Computer Science
-⋅⋅* Linear Algebra
-⋅⋅* Introduction to Applied Stochastics
+    * Designing Ineractive Systems
+    * Logical Programming   * Software Architectures
+    * Programming Concepts
+    * Data Structures and Algorithms
+    * Databases and Information Systems
+    * Softwware Engineering
+    * Introduction to Computer Engineering
+    * System programming
+    * Operating Systems and System Software
+    * Data Communacation and Security
+    * Formal Systems, Automata, Processes
+    * Computability and Complexity
+    * Discrete Structures 
+    * Calculus for Computer Science
+    * Linear Algebra
+    * Introduction to Applied Stochastics
 
 * 09/2016 - 08/2017 BSUIR 
 
