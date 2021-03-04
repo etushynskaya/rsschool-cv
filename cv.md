@@ -2,6 +2,7 @@
 # Yauheniya Tushynskaya
 -------------
 e.tushynskaya@gmail.com
+
 [@panenka_eugenia](https://t.me/panenka_eugenia)
 -------------
  Three years ago I moved from Minsk (Belarus) to Aachen (Germany) for studying Computer Science. Currently, I am doing my bachelor at RWTH Aachen. For more than one year I worked as a student assistant at the university and developed a program for an airplane boarding simulation in C++. Now I am working in Yip Yips UG and we are developing online shops and plugins for JTL Shops for customers all around Germany. 
@@ -37,9 +38,9 @@ function solution(str){
 -------------
 ## Education
 * since 2017 RWTH Aachen University Computer Science Bachelor
- ⋅⋅* ### Designing Ineractive Systems
- ⋅⋅* ### Logical Programming
- ⋅⋅* ### Software Architectures
+ ..*⋅ Designing Ineractive Systems
+ ⋅⋅* Logical Programming
+ ⋅⋅* Software Architectures
 ⋅⋅* Programming Concepts
 ⋅⋅* Data Structures and Algorithms
 ⋅⋅* Databases and Information Systems
