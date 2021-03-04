@@ -39,7 +39,8 @@ function solution(str){
 ## Education
 * since 2017 RWTH Aachen University Computer Science Bachelor
     * Designing Ineractive Systems
-    * Logical Programming   * Software Architectures
+    * Logical Programming  
+    * Software Architectures
     * Programming Concepts
     * Data Structures and Algorithms
     * Databases and Information Systems
